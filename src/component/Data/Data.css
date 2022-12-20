@@ -1,0 +1,67 @@
+.container{
+    width: 67rem;
+    background-color: aliceblue;
+    color: black;
+    margin: auto;
+    font-weight: bolder;
+    font-size: xx-small;
+}
+
+.header{
+    display: flex;
+
+}
+
+.account{
+    border: 2px solid rgba(179, 175, 175, 0.664);
+    background-color: rgba(225, 230, 231, 0.959);
+    width: 28rem;
+    align-items: center;
+    margin-left: 1.5rem;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.debit{
+    border: 2px solid rgba(179, 175, 175, 0.664);
+    background-color: rgba(225, 230, 231, 0.959);
+    width: 14rem;
+    align-items: center;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.form{
+    display: flex;
+}
+
+.accountForm{
+    border: 2px solid rgba(179, 175, 175, 0.664);
+    width: 29.5rem;
+    height: 3.5rem;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 1.5rem;
+    margin-top: -12px;
+    margin-bottom: 12px;
+}
+
+
+.debitForm{
+    border: 2px solid rgba(179, 175, 175, 0.664);
+    width: 14rem;
+    height: 2rem;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: -12px;
+    margin-bottom: 14px;
+}
+
+.Add{
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.delete{
+    margin-left: 1rem;
+}
